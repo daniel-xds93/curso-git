@@ -10,6 +10,9 @@ namespace sessao08_aula098_projeto_testeGit {
             Console.WriteLine($"Repositório do {nome}");
             Console.WriteLine();
             Console.WriteLine($"Seja bem vindo, {nome}!");
+
+            Console.WriteLine();
+            Console.WriteLine("Mais um dia de estudos!!!");
         }
     }
 }
