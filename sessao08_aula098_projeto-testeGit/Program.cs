@@ -13,6 +13,9 @@ namespace sessao08_aula098_projeto_testeGit {
 
             Console.WriteLine();
             Console.WriteLine("Mais um dia de estudos!!!");
+
+            Console.WriteLine();
+            Console.WriteLine("Hoje é segunda e estou de boa!!!");
         }
     }
 }
