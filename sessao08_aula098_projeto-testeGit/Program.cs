@@ -5,7 +5,7 @@ namespace sessao08_aula098_projeto_testeGit {
         static void Main(string[] args) {
 
             // vou subir esse projeto para um repositorio Git
-
+            Console.WriteLine("---------------------------------------------------------");
             string nome = "Daniel Xavier";
             Console.WriteLine($"Repositório do {nome}");
             Console.WriteLine();
@@ -16,6 +16,7 @@ namespace sessao08_aula098_projeto_testeGit {
 
             Console.WriteLine();
             Console.WriteLine("Hoje é segunda e estou de boa!!!");
+            Console.WriteLine("---------------------------------------------------------");
         }
     }
 }
